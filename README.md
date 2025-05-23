@@ -22,7 +22,6 @@ An interactive artificial life simulation built with React, where digital organi
 7.  [Understanding the UI](#understanding-the-ui)
 8.  [Future Enhancements (Ideas)](#future-enhancements-ideas)
 9.  [Contributing](#contributing)
-10. [License](#license)
 
 ## Overview
 
@@ -220,7 +219,3 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 6.  Open a Pull Request.
 
 Please ensure your code follows the existing style and includes comments where necessary.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (you'll need to create this file, typically just containing the MIT License text).
