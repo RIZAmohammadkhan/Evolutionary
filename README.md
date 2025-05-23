@@ -1,7 +1,6 @@
 # Digital Evolution: A React-Based Artificial Life Simulator
 
 ![Digital Evolution Simulation Screenshot](placeholder_screenshot.png)
-*Replace `placeholder_screenshot.png` with an actual screenshot or GIF of your simulation in action!*
 
 An interactive artificial life simulation built with React, where digital organisms evolve, adapt, and compete in a dynamic environment. Witness the principles of natural selection and emergent behavior unfold in real-time on an HTML5 canvas.
 
